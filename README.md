@@ -23,14 +23,28 @@ Ensure that you buy the car at the location you intend to pick up. Working with 
 the ground and they are unable to inspect the vehicle themselves before selling it to you. Sales requests are simply forward onto the pickup
 location and any personal details or requests are lost in the handoff.
 
+## Bring
+
+- Drivers License
+- Bank Draft
+- Smartphone
+- Plates
+- USB -C and A charging cables
+- Flashlight
+- 12V charger
+
 ## Exterior
 
 ### Locked
 
+- [ ] Full name
+- [ ] Model is correct, is AWD Long Range
 - [ ] Vehicle VIN matches the assigned VIN
 - [ ] Color is as ordered
 - [ ] Wheel style is as ordered (19" 'Gemini' Wheel, 20" Induction Wheel, etc).
+- [ ] Wheel caps are fixed and attached
 - [ ] A sleeve with *two* keys is provided
+  - [ ] Test cards work 
 - [ ] Check the head light fit
 - [ ] Inspect the paint around intake vents on the front bumper
 - [ ] Inspect the frunk, look for paint defects, dents and signs of improper closing by the sides of the T logo
@@ -41,6 +55,7 @@ should be approximately equal). An improperly installed windshield causes signif
 - [ ] Check that the trim along the bottom of the sides of the vehicle are flush with the bottom of the doors
 - [ ] Check for trim stains
 - [ ] Check all 4 door levers
+- [ ] Check passenger and driver emergency door release
 - [ ] Check all wheels, ensure they are not scratched
 - [ ] Check all wheels, ensure there is nothing lodged in the tread (screws, nails, debris, etc.)
 - [ ] Confirm all 4 hubcaps are present and properly attached
@@ -81,8 +96,10 @@ pins (pushed in all the way) and metal threaded pins (sticking out) with plastic
 
 ## Interior
 
+- [ ] Check door panels for looseness
 - [ ] Inspect the screen for scratches
 - [ ] Inspect the center console scratches, dings, etc.
+- [ ] Check console cover sliding door
 - [ ] Inspect the dash for scratches
 - [ ] Verify that wireless charging works on both sides
 - [ ] Confirm wired charging works (2 x USB-C in front, 2 x USB-C in back)
@@ -95,9 +112,12 @@ go down they do all the way down for front two windows. The rear two windows don
 - [ ] Play a familiar track through the sound system and confirm that all speakers work (use the balance and fader controls) and there
 are no unexpected clicks, etc.
 - [ ] Fold mirrors
+- [ ] Adjust mirrors
+- [ ] Check rear view mirror
 - [ ] Check all interior lights, and that all reading lights turn on with a press
-  - [ ] Puddle lights, door pocket lighting, overhead lights, etc.
+  - [ ] Puddle lights, door pocket lighting, overhead lights, passenger foot light etc.
   - [ ] Check steering wheel control lights
+  - [ ] Check window door lights
 - [ ] Check windshield all around
 - [ ] Inspect the headliner all around (no grease, damage or scuffs)
 - [ ] Inspect both coat hooks (should extend, retract and latch)
@@ -108,6 +128,7 @@ are no unexpected clicks, etc.
 - [ ] Check seats for scuffs/damage/bad seams
 - [ ] Verify all front seat adjustments, including lumbar support
 - [ ] Confirm seat warmers work 
+- [ ] Check Seatbelts
 - [ ] Verify third row seats work correctly if included in your order
 - [ ] Confirm the middle seat on back row is flush at both ends
 - [ ] Confirm that back seats recline adjustment works correctly
@@ -117,9 +138,19 @@ are no unexpected clicks, etc.
 different finish on pedals (matte on accelerator, glossy on brake) and a conspicuous weld in the middle of the brake pedal
 - [ ] Turn on climate control, force the heat pump to kick in by taking the temperature to either end of the scale and listen for loud noises
 - [ ] Confirm (car battery) charging works
+- [ ] Open charging port:
+  - [ ] Manually 
+  - [ ] App 
+  - [ ] TouchScreen
+  - [ ] Charger Button
 - [ ] Test HVAC system, seat adjustments, and heated seats
+- [ ] Check for error messages and history
 - [ ] Verify Park Assist sensor, Blind Spot camera, and wireless phone charger connectivity
+- [ ] Check rear and side cameras 
+- [ ] HONK!
 - [ ] Test the sound system, and check for phantom touches and dead pixels on the Sketchpad app.
+- [ ] Switch from light to dark 
+- [ ] Lock and unlock by walking away
 
 ## Frunk
 
